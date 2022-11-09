@@ -1,5 +1,5 @@
 <h1 align="center">  🌍&nbsp; Social App 🌎</h1>
-
+<!-- add new text -->
 > This application isn't finished yet.
 
 > Built with MERN stack (MongoDB, Express, React and Node) + (GrapgQL).
